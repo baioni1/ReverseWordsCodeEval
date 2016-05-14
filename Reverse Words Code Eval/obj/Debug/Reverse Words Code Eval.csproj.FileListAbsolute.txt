@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Reverse Words Code Eval\Reverse Words Code Eval\bin\Debug\Reverse Words Code Eval.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Reverse Words Code Eval\Reverse Words Code Eval\bin\Debug\Reverse Words Code Eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Reverse Words Code Eval\Reverse Words Code Eval\bin\Debug\Reverse Words Code Eval.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Reverse Words Code Eval\Reverse Words Code Eval\obj\Debug\Reverse Words Code Eval.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Reverse Words Code Eval\Reverse Words Code Eval\obj\Debug\Reverse Words Code Eval.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Reverse Words Code Eval\Reverse Words Code Eval\obj\Debug\Reverse Words Code Eval.csprojResolveAssemblyReference.cache
